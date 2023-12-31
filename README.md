@@ -30,7 +30,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kpgomez.kpgomez&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kpgomez.kpgomez&left_color=green&right_color=red) -->
 
 
 <!-- ### 🌟 -->
