@@ -3,17 +3,6 @@
 </div>
 <br>
 
----
-<br>
-<div id="gif" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1dzl4OGFtbmE2b3Fkdm15YWx4MHIweWIya29meHVzY2xxa25uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150">
-</div>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="50px">
-    <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
-</div>
-
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/kpgomez">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,13 +12,29 @@
     <a href="https://www.facebook.com/kitty.phou/about/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> -->
     <a href="https://about.me/kpgomez">
-        <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white" alt="Youtube Badge"/>
+        <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white" alt="me Badge"/>
     </a>
   <!-- </a>  -->
 </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=kpgomez&style=flat-square&color=blue" alt=""/>
 </div>
+---
+<br>
+<!-- <div id="gif" align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1dzl4OGFtbmE2b3Fkdm15YWx4MHIweWIya29meHVzY2xxa25uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150">
+</div> -->
+
+
+<div id="gif" align="center">
+    <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100">
+</div>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="50px">
+    <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
+</div>
+
 
 ---
 
