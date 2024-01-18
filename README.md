@@ -19,7 +19,7 @@
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=kpgomez&style=flat-square&color=blue" alt=""/>
 </div>
----
+
 <br>
 <!-- <div id="gif" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1dzl4OGFtbmE2b3Fkdm15YWx4MHIweWIya29meHVzY2xxa25uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150">
