@@ -27,7 +27,7 @@
     <!-- <span style="padding-right: 5px; padding-right: 5px"><img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100"></span> -->
 <div style="padding-left: 10px">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpgomez&theme=blood&hide_border=true&border_radius=20&exclude_days=Sun%2CSat&card_width=395)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpgomez&theme=blood&hide_border=false&border_radius=20&exclude_days=Sun%2CSat&card_width=395)](https://git.io/streak-stats)</div>
 
 <div style="padding-left: 5px; padding-right: 5px"><img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100"></div>
 </div>
