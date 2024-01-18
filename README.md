@@ -1,40 +1,40 @@
 <div align="center">
   <img src="Do what you 3.png" width="1000" height="300"/>
 </div>
-<br>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/kpgomez">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <!-- <a href="https://www.youtube.com/channel/UCkeMfUUQlWEYWldN1_kEGig">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <a href="https://www.facebook.com/kitty.phou/about/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> -->
-    <a href="https://about.me/kpgomez">
-        <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white" alt="me Badge"/>
-    </a>
-  <!-- </a>  -->
-</div>
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=kpgomez&style=flat-square&color=blue" alt=""/>
-</div>
 
 <br>
-<!-- <div id="gif" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J1dzl4OGFtbmE2b3Fkdm15YWx4MHIweWIya29meHVzY2xxa25uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150">
-</div> -->
 
-
-<div id="gif" align="center">
-    <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100">
-</div>
-
-<div align="center">
+<div>
+    <div id="badges" align="center">
+        <a href="https://www.linkedin.com/in/kpgomez">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="https://about.me/kpgomez">
+            <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me&logoColor=white" alt="me Badge"/>
+        </a>
+    </div>
+    <div id="counter" align="center">
+        <img src="https://komarev.com/ghpvc/?username=kpgomez&style=flat-square&color=blue" alt=""/>
+    </div>
+    <div align="center">
     <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="50px">
     <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
 </div>
+    <br>
+    <div id="stats" align="center">
 
+<span style="padding-right: 5px">![KP Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpgomez&show_icons=true&theme=dracula)</span>
+<span style="padding-left: 5px; padding-right: 5px"><img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100"></span>
+<span style="padding-left: 5px">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpgomez&theme=blood&hide_border=true&border_radius=20&exclude_days=Sun%2CSat&card_width=400)](https://git.io/streak-stats)
+</span>
+    </div>
+
+<!-- <div id="gif" align="center"> -->
+  
+<!-- </div> -->
+
+
+</div>
 
 ---
 
@@ -43,7 +43,7 @@
 <!-- - 👯 I’m looking to possibly collaborate on an RPG  -->
 <!-- - ⚡ Fun fact: I would love to spend my retirement playing pool tournaments and video games specifically revisiting my 
 childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
-- ⚡ Fun fact: I ❤️ playing 🕹️ & 🎱.
+- ⚡ Fun fact: Besides coding 💻 like a girl, I also play video games 🕹️ and pool 🎱 like a girl. 😉
 <!--  -->
 
 <!-- - 🤔 I’m looking for help with ... -->
@@ -81,7 +81,8 @@ childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
 
 ### 🔥: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpgomez&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpgomez&theme=light&background=000000)](https://git.io/streak-stats) -->
+
 
 
 </div>
@@ -89,7 +90,7 @@ childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpgomez&size_weight=0.5&count_weight=0.5)
 
-![KP Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpgomez&show_icons=true&theme=dracula)
+
 
 
 </div>
