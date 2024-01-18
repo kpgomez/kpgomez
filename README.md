@@ -41,7 +41,9 @@
 <!-- - 🔭 I’m currently working on a job search management tool -->
 - 🌱 I’m currently learning Python, Django, and TailwindCSS
 <!-- - 👯 I’m looking to possibly collaborate on an RPG  -->
-- ⚡ Fun fact: I would love to spend my retirement playing pool tournaments and video games specifically revisiting my childhood favorites such as Star Ocean: Second Story and Legend of Legaia. 
+<!-- - ⚡ Fun fact: I would love to spend my retirement playing pool tournaments and video games specifically revisiting my 
+childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
+- ⚡ Fun fact: I ❤️ playing 🕹️ & 🎱.
 <!--  -->
 
 <!-- - 🤔 I’m looking for help with ... -->
