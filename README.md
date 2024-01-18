@@ -75,4 +75,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
+<div>
+
+### 🔥: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpgomez&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+</div>
+<div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpgomez&size_weight=0.5&count_weight=0.5)
+
+![KP Gomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpgomez&show_icons=true&theme=dracula)
+
+
 </div>
