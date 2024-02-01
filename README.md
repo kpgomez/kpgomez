@@ -2,9 +2,7 @@
   <img src="Do what you 3.png" width="1100" height="300"/>
 </div>
 
-
-
-<br>
+--- 
 
 <div>
     <div id="badges" align="center">
@@ -18,41 +16,33 @@
     <div id="counter" align="center">
         <img src="https://komarev.com/ghpvc/?username=kpgomez&style=flat-square&color=blue" alt=""/>
     </div>
-    <div align="center">
-    <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="50px">
-    <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
-</div>
+    <div id="hello-world" align="center">
+        <img src="https://media.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
+    </div>
     <br>
-<div id="stats" align="center">
-    <!-- <span style="padding-right: 5px; padding-right: 5px"><img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100"></span> -->
-<div style="padding-left: 10px">
+    <div id="stats" align="center">
+    <div id="weird-centering-issue">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpgomez&theme=blood&hide_border=false&border_radius=20&exclude_days=Sun%2CSat&card_width=395)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kpgomez&theme=blood&hide_border=false&border_radius=20&exclude_days=Sun%2CSat&card_width=395)](https://git.io/streak-stats)
+    </div>
 
 <div style="padding-left: 5px; padding-right: 5px"><img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="100"></div>
 </div>
 
 ---
+
 <div align="center">
-<!-- - 🔭 I’m currently working on a job search management tool -->
+
 About me:
- 🌱 I’m currently learning Python, Django, and TailwindCSS
-<!-- - 👯 I’m looking to possibly collaborate on an RPG  -->
-<!-- - ⚡ Fun fact: I would love to spend my retirement playing pool tournaments and video games specifically revisiting my 
-childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
-⚡ Fun fact: Besides coding 💻 like a girl, I also play video games 🕹️ and pool 🎱 like a girl. 😉
-<!--  -->
+🌱 I’m currently learning Python, Django, and TailwindCSS ⚡ Fun fact: I code 💻 like a girl. I play video games 🕹️ like a girl. I play pool 🎱 like a girl. 😉
 
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kpgomez.kpgomez&left_color=green&right_color=red) -->
 </div>
 
-### 🛠️ : Languages and Tools :
-<div>
+
+<h3 style="text-align: center"> 🛠️ : Languages and Tools : </h3>
+
+<div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
@@ -72,24 +62,4 @@ childhood favorites such as Star Ocean: Second Story and Legend of Legaia.  -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ### 🌟 -->
-<hr>
-
-
-<div>
-
-<!-- ### 🔥: My Stats : -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kpgomez&theme=light&background=000000)](https://git.io/streak-stats) -->
-
-
-
-</div>
-<div>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpgomez&size_weight=0.5&count_weight=0.5) -->
-
-
-
-
-</div>
+---
