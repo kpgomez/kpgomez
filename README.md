@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="jess-bailey-simple-unsplash.jpg" width="1100" height="300"/>
+  <img src="simon-berger-nature-unsplash.jpg" width="1200" height="300"/>
 </div>
 
 --- 
