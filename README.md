@@ -77,4 +77,8 @@ About me:
 </div>
 
 ---
-credits: [Simon Berger](https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c)  for photo, [Laura Salvaterra](https://www.behance.net/laurasalvaterra) for letter giphies
+credits: 
+- [Simon Berger](https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c)  for photo
+- [Laura Salvaterra](https://www.behance.net/laurasalvaterra) for letter giphies
+- [Hexx King](https://github.com/HexxKing/HexxKing) for the Github profile inspirations
+- [Nida Khan](https://www.sitepoint.com/github-profile-readme/) for more personalization ideas
