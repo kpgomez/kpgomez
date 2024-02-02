@@ -21,9 +21,13 @@
         <img src="https://media.giphy.com/media/lnsTFyT6wUzItXsUV5/giphy.gif" width="50px">
     </div>
     <div id="i-am" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0ZTgydGs1NGtrMHd2aGVzZTJqamphdHpzeTdhczdwMnFvbnhybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/5uBqVukU2o4XINPRD4/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNobjA1MDl2b3Z2dnQ4ajk5MWFrZnRqMzZtZGY3N21yN2IwNnMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eYV48BeLSKNgJuAhYZ/giphy.gif" width="40px">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhvMnRzbWt0ZDRhczl1dzhwa2swa2JwdzI2bWw5dGhmYjF0bDAyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj6Jul7Q7IbNa3Dn3C/giphy.gif" width="70px">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYyd3VybnF5dmNlNDVqMHFyM3MweGdrNGFreHZrcHFpNmcxemRtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/pducGLmEuVdaDJOK0U/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/qYBj58jCwgW7f4Jpaz/giphy.gif" width="20px">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F2aGt5a2ltZXllMzZpZnpyMzlseWpjMHNucjRkeXl2bjU0ajVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/JVaAdjZIRNSWf9sSjP/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFuM3Ayb2dnYTU3MG5idTRybHR0anR1dXJ3YWdhbnJyb3F5b3VtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Ufolh1TYxtAnYhs4RO/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/qYBj58jCwgW7f4Jpaz/giphy.gif" width="20px">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFwZ3g1enowdXF6ZjZxZWgyZzgyMXJ1YjM2ZGw4c3N2amkyOW9keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/sYMJdVB4XNPUKO2zv8/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlc2lkNjVtaGgyamZ3ZTljM3RsM2V6Z3czNGFldjFvYjhpeWI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/7v0CUZRGyalwyQ28lj/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF3dDlwN25oOWdqOTZkYnFuc3FyeGJmNGJ4aHd3bGlncWNscng4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/GSiZ8JtN26IGj2tkDY/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlmMjh2bmQyMXdrZTBkM2d0MWZkNWQ2dXloZmpjZjNyNTNmMGxzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5zAZsY8XJenK75Yv1d/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFuM3Ayb2dnYTU3MG5idTRybHR0anR1dXJ3YWdhbnJyb3F5b3VtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Ufolh1TYxtAnYhs4RO/giphy.gif" width="50px">
