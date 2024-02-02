@@ -77,3 +77,4 @@ About me:
 </div>
 
 ---
+credits: [Simon Berger](https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c)  for photo, [Laura Salvaterra](https://www.behance.net/laurasalvaterra) for letter giphies
