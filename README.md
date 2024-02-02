@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Do what you 3.png" width="1100" height="300"/>
+  <img src="clark-tibbs-do-something-great-unsplash.jpg" width="1100" height="300"/>
 </div>
 
 --- 
