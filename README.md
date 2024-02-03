@@ -49,13 +49,24 @@
 
 <div>
     <p><b>🌱 Currently learning:</b> Python, Django, and TailwindCSS</p>
-    <p><b>⚡ Fun fact:</b> I code 💻 like a girl. I play video games 🕹️ like a girl. I play pool 🎱 like a girl. 😉</p>
-    <p><b>💡 Favorite subjects:</b> Python, Game Theory, Statistics, and Management Science. I am forever grateful to Dr. Dantu, Dr. Brown, Dr. Eakin, and Dr. Napier for their role in reigniting my passion for learning.</p>
-</div>
-
-<div>
+    <p><b>😉 Fun fact:</b></p>
+    <ul>
+        <li>I code 💻 like a girl.</li>
+        <li>I play video games 🕹️ like a girl.</li>
+        <li>I play pool 🎱 like a girl.</li>
+        <li>I play cards ♠️♥️♣️♦️ like a girl.</li>
+    </ul>
+    <p>Girls are capable of <i>so much more</i> than what they give us credit for.</p>
+    <p><b>💡 Favorite subjects:</b> 
+    <ul>
+        <li>Python</li>
+        <li>Game Theory</li>
+        <li>Statistics</li>
+        <li>Management Science</li>
+    </ul>
+    <p>I am forever grateful to Dr. Dantu, Dr. Brown, Dr. Eakin, and Dr. Napier for their role in 🔥 reigniting my passion for learning.</p>
     <p><b>💬 Quotes of the moment:</b></p>
-    <p><i>"No one can make you feel inferior without your consent."</i> - Eleanor Roosevelt</p>
+    <p><i>"No one can make you feel inferior without your consent."</i> – Eleanor Roosevelt</p>
     <p><i>"Alone we can do so little, together we can do so much."</i> – Hellen Keller</p>
 </div>
 
