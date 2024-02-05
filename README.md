@@ -55,7 +55,7 @@
     <ul>
         <li>I code 💻 like a girl.</li>
         <li>I love to play video games 🕹️, card games ♠️♥️♣️♦️, and pool 🎱.</li>
-        <li>I really like Bollywood</li>
+        <li>I really like Bollywood.</li>
     </ul>
     <p><b>📚 Favorite subjects:</b> 
     <ul>
@@ -68,7 +68,7 @@
     <p><b>💬 Quotes of the moment:</b></p>
     <p><i>"No one can make you feel inferior without your consent."</i> – Eleanor Roosevelt</p>
     <p><i>"Alone we can do so little, together we can do so much."</i> – Hellen Keller</p>
-    <p><i>"When the student is ready the teacher will appear. When the student is truly ready... The teacher will Disappear."</i> – Tao Te Ching</p>
+    <p><i>"When the student is ready, the teacher will appear. When the student is truly ready... The teacher will disappear."</i> – Tao Te Ching</p>
 </div>
 
 ---
