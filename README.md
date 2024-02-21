@@ -47,27 +47,30 @@
 </div>
 
 ---
+<div align="center">
+
 | <b>🌱 Currently learning:</b> | <b>🎯 Core values:<b> | <b>🏅Top competencies:</b> |
 | :--- | :--- | :--- |
 |<ul><li>Python</li><li>Django</li><li>TailwindCSS</li></ul>|<ul><li>Quality of Work</li><li>Integrity</li><li>Equity & Fairness</li></ul>|<ul><li>Adaptability</li><li>Customer Orientation</li><li>Creativity</li></ul>|
+
+</div>
+
+---
 <div>
     <p><b>⚡ Fun facts:</b></p>
     <ul>
-        <li>I code 💻 like a girl.</li>
         <li>I like to play video games 🕹️, card games ♠️♥️♣️♦️, and pool 🎱.</li>
         <li>I really like Bollywood and period dramas.</li>
     </ul>
     <p><b>📚 Favorite subjects:</b> 
     <ul>
-        <li>Python</li>
-        <li>Game Theory</li>
-        <li>Statistics</li>
-        <li>Management Science</li>
+        <li>Python w/ Dr. Dantu</li>
+        <li>Game Theory w/ Dr. Brown</li>
+        <li>Statistics w/ Dr. Eakin</li>
+        <li>Management Science w/ Dr. Napier</li>
     </ul>
-    <p>I am forever grateful to Dr. Dantu, Dr. Brown, Dr. Eakin, and Dr. Napier for their role in 🔥 reigniting my passion for learning.</p>
-    <p><b>💬 Quotes of the moment:</b></p>
-    <p><i>"No one can make you feel inferior without your consent."</i> – Eleanor Roosevelt</p>
-    <p><i>"Alone we can do so little, together we can do so much."</i> – Hellen Keller</p>
+    <p>I am forever grateful to the professors mentioned above for their role in 🔥 reigniting my passion for learning.</p>
+    <p><b>💬 Quote of the moment:</b></p>
     <p><i>"When the student is ready, the teacher will appear. When the student is truly ready... The teacher will disappear."</i> – Tao Te Ching</p>
 </div>
 
