@@ -49,7 +49,7 @@
 ---
 | <b>🌱 Currently learning:</b> | <b>🎯 Core values:<b> | <b>🏅Top competencies:</b> |
 | :--- | :--- | :--- |
-|<ul><li>Python</li><li>Django</li><li>TailwindCSS</li><li>DSA</li></ul>|<ul><li>Quality of Work</li><li>Integrity</li><li>Equity & Fairness</li></ul>|<ul><li>Adaptability</li><li>Customer Orientation</li><li>Creativity</li></ul>|
+|<ul><li>Python</li><li>Django</li><li>TailwindCSS</li></ul>|<ul><li>Quality of Work</li><li>Integrity</li><li>Equity & Fairness</li></ul>|<ul><li>Adaptability</li><li>Customer Orientation</li><li>Creativity</li></ul>|
 <div>
     <p><b>⚡ Fun facts:</b></p>
     <ul>
